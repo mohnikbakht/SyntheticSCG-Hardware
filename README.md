@@ -38,8 +38,8 @@ A block diagram of the system operation:
 ```console
 python3 Synthetic_SCG.py calibrate
 ```
-
-<img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/calibrate_1.png" alt="Image of The ECG/SCG Patch" width="400"/>
+<!-- 
+<img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/calibrate_1.png" alt="Image of The ECG/SCG Patch" width="400"/> -->
 
 
 2) Generation mode: Generate SCG waveforms:
@@ -48,7 +48,7 @@ python3 Synthetic_SCG.py calibrate
 python3 Synthetic_SCG.py generate signal1.wav
 ```
 
-<img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/generate_1.png" alt="Image of The ECG/SCG Patch" width="400"/>
+<!-- <img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/generate_1.png" alt="Image of The ECG/SCG Patch" width="400"/> -->
 
 
 
