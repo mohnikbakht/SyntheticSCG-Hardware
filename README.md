@@ -13,7 +13,7 @@ However, SCG signals are small signal, and they can get distorted easily by moti
 
 The hardware consists of a Raspberry Pi 4 and an actuator.
 
-<img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/figure2.png" alt="Image of The ECG/SCG Patch" width="800"/>
+<img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Hardware/blob/main/figures/figure2.png" alt="Image of The ECG/SCG Patch" width="800"/>
 
 
 <img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/figure1.png" alt="Image of The ECG/SCG Patch" width="800"/>
