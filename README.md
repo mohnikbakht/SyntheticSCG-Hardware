@@ -36,7 +36,8 @@ A block diagram of the system operation:
 
 1) Calibration mode: Calibrate the system (in a new environment):
 ```console
-python3 Synthetic_SCG.py calibrate
+python3 SCG_generate.py tf_estimate
+python3 SCG_generate.py calibrate signal_sample.wav
 ```
 <!-- 
 <img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/calibrate_1.png" alt="Image of The ECG/SCG Patch" width="400"/> -->
@@ -45,7 +46,7 @@ python3 Synthetic_SCG.py calibrate
 2) Generation mode: Generate SCG waveforms:
 
 ```console
-python3 Synthetic_SCG.py generate signal1.wav
+python3 SCG_generate.py generate signal_sample_calibrated.wav
 ```
 
 <!-- <img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/generate_1.png" alt="Image of The ECG/SCG Patch" width="400"/> -->
@@ -57,11 +58,11 @@ python3 Synthetic_SCG.py generate signal1.wav
 Depending on the type of the connection to the RPi, there are 2 options:
 1) If a display is connected to the RPi (or have X11 forwarding enabled), the plots will be shown in separate windows. Use this command (this mode is default):
 ```console
-python3 Synthetic_SCG.py generate signal1.wav desktop
+python3 SCG_generate.py generate signal_sample_calibrated.wav desktop
 ```
 2) If communication is through a terminal only, the plots will be plotted in the terminal (lower quality). Use this command:
 ```console
-python3 Synthetic_SCG.py generate signal1.wav terminal
+python3 SCG_generate.py generate signal_sample_calibrated.wav terminal
 ```
 ## Output Recording Samples
 
