@@ -59,7 +59,8 @@ python3 Synthetic_SCG.py generate signal1.wav terminal
 
 A 10s generated ECG and SCG with a heart-rate of 60 bpm:
 
-<img src="https://github.com/mohnikbakht/Synthetic_ECG_SCG_Generator_Demo/blob/main/Images/figure3.png" alt="Image of The ECG/SCG Patch" width="600"/>
+<img src="https://github.com/mohnikbakht/figures/blob/main/figures/figure3.png" alt="Image of The ECG/SCG Patch" width="600"/>
+<img src="https://github.com/mohnikbakht/figures/blob/main/figures/bland-altman.png" alt="Image of The ECG/SCG Patch" width="600"/>
 
 <!-- Zoomed in:
 
