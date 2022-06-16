@@ -66,13 +66,15 @@ python3 Synthetic_SCG.py generate signal1.wav terminal
 ## Output Recording Samples
 
 A sample of the generator-output SCG and ECG compared to the ECG and SCG inputs:
-<p align="center">
 
+<p align="center">
 <img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure3_2.png" alt="Image of The ECG/SCG Patch" width="800"/>
- 
+</p>
+
 Bland-Altman plots of error between the measured generator-output and the real human signal input based on the amplitude of the most prominent
 feature of the beats after heartbeat segmentation for (a) SCG, and (b) ECG signals. 
- 
+
+<p align="center">
 <img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/bland-altman.png" alt="Image of The ECG/SCG Patch" width="800"/>
 </p>
 
