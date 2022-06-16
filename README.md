@@ -17,11 +17,7 @@ classification/regression tasks and noise reduction algorithms.
 
 he system proposed in this work consists of an actuator unit and a processing unit. The actuator unit, which generates SCG and ECG signals. 
 
-<p align="center">
- <img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure2.png" alt="Image of The ECG/SCG Patch" width="400"/>
-</p>
-
-<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure1.png" alt="Image of The ECG/SCG Patch" width="400"/>
+<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure1.png" alt="Image of The ECG/SCG Patch" width="600"/>
 
 
 
@@ -29,6 +25,13 @@ he system proposed in this work consists of an actuator unit and a processing un
 
 
 The system designed here offers two user-controlled modes of operation: (1) calibration, which re-estimates the transfer function of the exciter speaker with the added load on the platform (wearable sensors) , and (2) signal generation, which generates the ECG and SCG sequences.
+
+A block diagram of the system operation:
+<p align="center">
+ <img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure2.png" alt="Image of The ECG/SCG Patch" width="800"/>
+</p>
+
+### Commands
 
 1) Calibration mode: Calibrate the system (in a new environment):
 ```console
