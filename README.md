@@ -17,8 +17,9 @@ classification/regression tasks and noise reduction algorithms.
 
 he system proposed in this work consists of an actuator unit and a processing unit. The actuator unit, which generates SCG and ECG signals. 
 
-<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure2.png" alt="Image of The ECG/SCG Patch" width="400"/>
-
+<p align="center">
+ <img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure2.png" alt="Image of The ECG/SCG Patch" width="400"/>
+</p>
 
 <img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure1.png" alt="Image of The ECG/SCG Patch" width="400"/>
 
