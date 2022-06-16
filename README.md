@@ -68,8 +68,8 @@ python3 Synthetic_SCG.py generate signal1.wav terminal
 A sample of the generator-output SCG and ECG compared to the ECG and SCG inputs:
 <p align="center">
 
-<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure3.png" alt="Image of The ECG/SCG Patch" width="600"/>
-<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/bland-altman.png" alt="Image of The ECG/SCG Patch" width="600"/>
+<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/figure3.png" alt="Image of The ECG/SCG Patch" width="300"/>
+<img src="https://github.com/mohnikbakht/SyntheticSCG-Hardware/blob/main/figures/bland-altman.png" alt="Image of The ECG/SCG Patch" width="1200"/>
 </p>
 
 <!-- Zoomed in:
